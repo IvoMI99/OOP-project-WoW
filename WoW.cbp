@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="WoW" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/WoW" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/WoW" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="combatant.cpp" />
+		<Unit filename="combatant.h" />
+		<Unit filename="flamewalker.cpp" />
+		<Unit filename="flamewalker.h" />
+		<Unit filename="furbolg.cpp" />
+		<Unit filename="furbolg.h" />
+		<Unit filename="giant.cpp" />
+		<Unit filename="giant.h" />
+		<Unit filename="goblin.cpp" />
+		<Unit filename="goblin.h" />
+		<Unit filename="hero.cpp" />
+		<Unit filename="hero.h" />
+		<Unit filename="kobold.cpp" />
+		<Unit filename="kobold.h" />
+		<Unit filename="log.cpp" />
+		<Unit filename="log.h" />
+		<Unit filename="mage.cpp" />
+		<Unit filename="mage.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="map.cpp" />
+		<Unit filename="map.h" />
+		<Unit filename="monster.cpp" />
+		<Unit filename="monster.h" />
+		<Unit filename="paladin.cpp" />
+		<Unit filename="paladin.h" />
+		<Unit filename="patchwerk.cpp" />
+		<Unit filename="patchwerk.h" />
+		<Unit filename="play.cpp" />
+		<Unit filename="play.h" />
+		<Unit filename="rager.cpp" />
+		<Unit filename="rager.h" />
+		<Unit filename="raggnaros.cpp" />
+		<Unit filename="raggnaros.h" />
+		<Unit filename="spider.cpp" />
+		<Unit filename="spider.h" />
+		<Unit filename="togwaggle.cpp" />
+		<Unit filename="togwaggle.h" />
+		<Unit filename="undead.cpp" />
+		<Unit filename="undead.h" />
+		<Unit filename="utility.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="warrior.cpp" />
+		<Unit filename="warrior.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

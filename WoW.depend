@@ -1,0 +1,208 @@
+# depslib dependency file v1.0
+1558379717 source:d:\programs\world of warcraft\wow\hero.cpp
+	"utility.h"
+	"hero.h"
+	"map.h"
+	"log.h"
+
+1558204796 source:d:\programs\world of warcraft\wow\main.cpp
+	"utility.h"
+	"play.h"
+
+1558295268 d:\programs\world of warcraft\wow\hero.h
+	<fstream>
+
+1558379597 source:d:\programs\world of warcraft\wow\mage.cpp
+	"utility.h"
+	"log.h"
+	"mage.h"
+	"map.h"
+
+1558295408 d:\programs\world of warcraft\wow\mage.h
+	"hero.h"
+
+1558381616 source:d:\programs\world of warcraft\wow\warrior.cpp
+	"utility.h"
+	"warrior.h"
+	"map.h"
+
+1558295407 d:\programs\world of warcraft\wow\warrior.h
+	"hero.h"
+	<fstream>
+
+1558381414 source:d:\programs\world of warcraft\wow\paladin.cpp
+	"utility.h"
+	"paladin.h"
+	"map.h"
+	"log.h"
+
+1558295504 d:\programs\world of warcraft\wow\paladin.h
+	"hero.h"
+
+1558105226 source:d:\programs\world of warcraft\wow\functions.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstring>
+	<iostream>
+	<cstdlib>
+	"map.h"
+	"hero.h"
+
+1558044924 d:\programs\world of warcraft\wow\functions.h
+	<fstream>
+	"hero.h"
+
+1558379302 source:d:\programs\world of warcraft\wow\monster.cpp
+	"utility.h"
+	"hero.h"
+	"monster.h"
+	"map.h"
+
+1558303922 d:\programs\world of warcraft\wow\monster.h
+	"hero.h"
+
+1559325382 source:d:\programs\world of warcraft\wow\goblin.cpp
+	"goblin.h"
+	"utility.h"
+	"map.h"
+
+1558306723 d:\programs\world of warcraft\wow\goblin.h
+	"monster.h"
+
+1558297381 d:\programs\world of warcraft\wow\undead.h
+	"monster.h"
+
+1558385544 source:d:\programs\world of warcraft\wow\undead.cpp
+	"undead.h"
+	"utility.h"
+
+1558297381 d:\programs\world of warcraft\wow\spider.h
+	"monster.h"
+
+1558385599 source:d:\programs\world of warcraft\wow\spider.cpp
+	"spider.h"
+	"utility.h"
+
+1558291772 source:d:\programs\world of warcraft\wow\map.cpp
+	"map.h"
+	"utility.h"
+
+1558282209 d:\programs\world of warcraft\wow\map.h
+
+1558384433 d:\programs\world of warcraft\wow\utility.h
+	<cstdlib>
+	<cstring>
+	<conio.h>
+	<fstream>
+	<time.h>
+	<iostream>
+	<windows.h>
+	<cmath>
+	<iomanip>
+	"map.h"
+
+1558374999 d:\programs\world of warcraft\wow\play.h
+	<fstream>
+	"hero.h"
+	"togwaggle.h"
+	"patchwerk.h"
+	"combatant.h"
+	"rager.h"
+	"giant.h"
+	"flamewalker.h"
+	"kobold.h"
+	"furbolg.h"
+	"map.h"
+	"monster.h"
+	"goblin.h"
+	"undead.h"
+	"spider.h"
+	"warrior.h"
+	"paladin.h"
+	"mage.h"
+	"raggnaros.h"
+	"log.h"
+
+1559331325 source:d:\programs\world of warcraft\wow\play.cpp
+	"utility.h"
+	"play.h"
+
+1558278488 d:\programs\world of warcraft\wow\log.h
+	"utility.h"
+
+1558294469 source:d:\programs\world of warcraft\wow\log.cpp
+	"log.h"
+	"map.h"
+
+1559421910 source:d:\programs\world of warcraft\wow\raggnaros.cpp
+	"raggnaros.h"
+	"map.h"
+	"utility.h"
+
+1558380302 d:\programs\world of warcraft\wow\raggnaros.h
+	"monster.h"
+
+1558298844 d:\programs\world of warcraft\wow\kingkobold.h
+	"monster.h"
+
+1559335939 source:d:\programs\world of warcraft\wow\togwaggle.cpp
+	"togwaggle.h"
+	"map.h"
+	"utility.h"
+
+1558380302 d:\programs\world of warcraft\wow\togwaggle.h
+	"monster.h"
+
+1559330315 d:\programs\world of warcraft\wow\patchwerk.h
+	"monster.h"
+
+1559335284 source:d:\programs\world of warcraft\wow\patchwerk.cpp
+	"patchwerk.h"
+	"map.h"
+	"utility.h"
+
+1559324577 source:d:\programs\world of warcraft\wow\kobold.cpp
+	"kobold.h"
+	"utility.h"
+
+1558306473 d:\programs\world of warcraft\wow\kobold.h
+	"monster.h"
+
+1559327759 source:d:\programs\world of warcraft\wow\furbolg.cpp
+	"utility.h"
+	"furbolg.h"
+
+1558306456 d:\programs\world of warcraft\wow\furbolg.h
+	"monster.h"
+	"hero.h"
+
+1559325430 source:d:\programs\world of warcraft\wow\combatant.cpp
+	"combatant.h"
+	"utility.h"
+
+1558306819 d:\programs\world of warcraft\wow\combatant.h
+	"monster.h"
+
+1559336000 source:d:\programs\world of warcraft\wow\giant.cpp
+	"giant.h"
+	"utility.h"
+
+1559335451 d:\programs\world of warcraft\wow\giant.h
+	"monster.h"
+
+1558376007 d:\programs\world of warcraft\wow\rager.h
+	"monster.h"
+
+1558376037 d:\programs\world of warcraft\wow\flamewalker.h
+	"monster.h"
+
+1559331358 source:d:\programs\world of warcraft\wow\flamewalker.cpp
+	"flamewalker.h"
+	"utility.h"
+
+1559329853 source:d:\programs\world of warcraft\wow\rager.cpp
+	"rager.h"
+	"utility.h"
+	"map.h"
+
